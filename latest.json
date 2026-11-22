@@ -1,1 +1,1 @@
-{"ver": "4.3.5", "apk": "StremioHub.apk", "notes": "DV izvori opet kroz DV dekoder (DV preko HEVC-a je zatamnio sve izvore)"}
+{"ver": "4.3.6", "apk": "StremioHub.apk", "notes": "DV opet preko HEVC-a (DV dekoder ne daje sliku), uz automatski HDR10 signal"}
