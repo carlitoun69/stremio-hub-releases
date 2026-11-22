@@ -1,1 +1,1 @@
-{"ver": "4.3.6", "apk": "StremioHub.apk", "notes": "DV opet preko HEVC-a (DV dekoder ne daje sliku), uz automatski HDR10 signal"}
+{"ver": "4.3.7", "apk": "StremioHub.apk", "notes": "SDR izvor ispred HDR-a (probno, SDR_FIRST)"}
