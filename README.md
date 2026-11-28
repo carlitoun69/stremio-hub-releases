@@ -1,5 +1,5 @@
 # Stremio Hub
 
-Najnovija verzija: **4.4.0** — [StremioHub.apk](StremioHub.apk)
+Najnovija verzija: **4.4.1** — [StremioHub.apk](StremioHub.apk)
 
 Hub se ažurira sam: Podešavanja > Sistem > Nova verzija.
